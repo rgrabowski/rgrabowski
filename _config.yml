@@ -23,6 +23,3 @@ github_username: rgrabowski
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jekyll-octicons
