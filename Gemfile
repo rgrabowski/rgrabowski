@@ -18,7 +18,6 @@ ruby RUBY_VERSION
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'github-pages', '104'
-  gem 'jekyll-octicons'
+  gem 'github-pages'
 #   gem "jekyll-github-metadata", "~> 1.0"
 end
