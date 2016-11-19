@@ -3,9 +3,20 @@
 ---
 
 body {
-  background-color: #EDEFF0;
+  margin-top: 2rem;
 }
 
-.sheet {
-  background-color: #fff;
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%
+}
+
+.icons-container {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.name-container {
+  margin-top: .6rem;
 }
