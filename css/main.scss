@@ -6,14 +6,10 @@ body {
   margin-top: 2rem;
   font-family: 'Libre Baskerville', serif;
 }
-h3 {
-  font-family: 'Libre Franklin', sans-serif;
-  font-weight: 500;
-}
 
 .profile-photo {
-  width: 140px;
-  height: 140px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%
 }
 
@@ -24,4 +20,7 @@ h3 {
 
 .name-container {
   margin-top: .6rem;
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 500;
+  font-size: 1.8rem
 }
